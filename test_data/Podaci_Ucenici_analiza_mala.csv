@@ -1,0 +1,19 @@
+﻿Tjedan,Učenik_ID,Stres,Motivacija,Zadovoljstvo,Ocjena_test,Ocjena_zadaća,Bilješka_nastavnika
+1,1,1,1,3,4,3.7,manji sukob
+1,2,2,2,1,4.1,5,povučen u grupi
+1,3,1,5,4,3.3,3.6,pozitivna interakcija
+2,1,4,2,3,3.8,2.4,manji sukob
+2,2,2,5,5,3.8,3.5,neutralno
+2,3,5,4,5,2.8,4.3,vrlo aktivan
+3,1,3,1,5,3.8,4,povučen u grupi
+3,2,2,5,2,3.5,3.6,pozitivna interakcija
+3,3,1,1,2,2.1,3.5,pozitivna interakcija
+4,1,5,1,2,3.8,4.4,pozitivna interakcija
+4,2,5,1,2,2.3,2.7,vrlo aktivan
+4,3,1,5,2,4,4,povučen u grupi
+5,1,5,2,4,3.7,2.8,manji sukob
+5,2,1,3,3,3.7,4.1,pozitivna interakcija
+5,3,3,2,2,2.6,3.9,pozitivna interakcija
+6,1,2,5,5,2.7,3.7,neutralno
+6,2,4,5,1,4,4.5,neutralno
+6,3,3,2,4,2.3,3.5,povučen u grupi

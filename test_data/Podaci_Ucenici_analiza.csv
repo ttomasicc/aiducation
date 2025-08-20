@@ -1,0 +1,145 @@
+﻿Tjedan,Učenik_ID,Stres,Motivacija,Zadovoljstvo,Ocjena_test,Ocjena_zadaća,Bilješka_nastavnika
+1,1,1,1,3,4,3.7,manji sukob
+1,2,2,2,1,4.1,5,povučen u grupi
+1,3,1,5,4,3.3,3.6,pozitivna interakcija
+1,4,1,1,2,5,4.4,manji sukob
+1,5,5,5,1,3,4.2,povučen u grupi
+1,6,2,5,4,3,3.4,manji sukob
+1,7,4,5,3,3.7,2.3,pozitivna interakcija
+1,8,2,4,3,1.8,3.4,neutralno
+1,9,2,2,3,2.5,4.1,pozitivna interakcija
+1,10,1,4,1,2.6,2.7,neutralno
+1,11,3,5,3,5,3.6,pozitivna interakcija
+1,12,4,5,1,3.6,2.7,vrlo aktivan
+1,13,1,5,3,3,3.9,povučen u grupi
+1,14,3,5,2,2.3,4.1,pozitivna interakcija
+1,15,1,2,3,2.9,3.6,pozitivna interakcija
+1,16,2,1,4,2.9,5,neutralno
+1,17,4,3,2,3.5,3,neutralno
+1,18,3,2,3,4.3,2.8,pozitivna interakcija
+1,19,5,2,5,3.7,2.2,manji sukob
+1,20,2,4,4,2.2,4,neutralno
+1,21,5,2,3,4.2,3.9,pozitivna interakcija
+1,22,2,1,3,3.4,3.6,vrlo aktivan
+1,23,3,1,2,2,3.2,povučen u grupi
+1,24,3,2,4,3,4.6,vrlo aktivan
+2,1,4,2,3,3.8,2.4,manji sukob
+2,2,2,5,5,3.8,3.5,neutralno
+2,3,5,4,5,2.8,4.3,vrlo aktivan
+2,4,3,2,2,4.5,4.5,povučen u grupi
+2,5,4,1,1,2.7,3.6,pozitivna interakcija
+2,6,2,2,4,3.8,4.6,povučen u grupi
+2,7,1,4,4,3,3.7,povučen u grupi
+2,8,4,5,3,2.4,2.8,povučen u grupi
+2,9,1,1,5,4.3,4.9,neutralno
+2,10,3,1,3,3.4,4.6,vrlo aktivan
+2,11,2,4,1,3.9,3.3,neutralno
+2,12,5,2,5,3.9,5,pozitivna interakcija
+2,13,3,5,5,3.5,5,manji sukob
+2,14,2,3,2,1,4.5,povučen u grupi
+2,15,5,1,5,3.6,3.6,neutralno
+2,16,4,1,1,3.6,2.2,neutralno
+2,17,3,2,1,3.3,4.1,manji sukob
+2,18,5,1,1,5,3.4,vrlo aktivan
+2,19,1,5,2,2.7,3.4,manji sukob
+2,20,4,5,2,4.4,4.1,neutralno
+2,21,5,5,4,3,4.2,manji sukob
+2,22,5,2,3,3.6,4.6,vrlo aktivan
+2,23,3,4,5,2.8,3.5,vrlo aktivan
+2,24,1,2,2,3.1,2.6,pozitivna interakcija
+3,1,3,1,5,3.8,4,povučen u grupi
+3,2,2,5,2,3.5,3.6,pozitivna interakcija
+3,3,1,1,2,2.1,3.5,pozitivna interakcija
+3,4,1,3,1,3.2,3.2,povučen u grupi
+3,5,2,3,4,3.3,4.1,manji sukob
+3,6,5,2,5,5,3.9,povučen u grupi
+3,7,4,2,4,3.8,3.7,vrlo aktivan
+3,8,2,1,1,1.6,3.8,vrlo aktivan
+3,9,3,4,4,3.6,5,vrlo aktivan
+3,10,1,1,1,3.3,4,vrlo aktivan
+3,11,3,1,2,3.5,2.9,manji sukob
+3,12,2,5,4,4.6,4.4,manji sukob
+3,13,4,2,3,4.3,3.1,vrlo aktivan
+3,14,2,1,4,4.9,2.7,povučen u grupi
+3,15,1,1,5,4.1,5,pozitivna interakcija
+3,16,1,2,2,2.5,3.3,vrlo aktivan
+3,17,4,4,2,3.6,3.4,vrlo aktivan
+3,18,1,2,4,1.9,3.9,pozitivna interakcija
+3,19,4,3,4,2.4,4.2,neutralno
+3,20,4,5,4,2.6,5,manji sukob
+3,21,2,3,2,2.7,3.5,pozitivna interakcija
+3,22,5,5,1,4.3,2.8,neutralno
+3,23,1,1,5,3.7,4.8,vrlo aktivan
+3,24,5,5,2,1.9,3.9,pozitivna interakcija
+4,1,5,1,2,3.8,4.4,pozitivna interakcija
+4,2,5,1,2,2.3,2.7,vrlo aktivan
+4,3,1,5,2,4,4,povučen u grupi
+4,4,5,1,5,3.8,4.1,pozitivna interakcija
+4,5,4,5,5,2.8,4,povučen u grupi
+4,6,3,3,2,3.8,3.2,neutralno
+4,7,2,3,4,5,4.2,manji sukob
+4,8,3,4,3,2.3,4.3,pozitivna interakcija
+4,9,1,4,5,2.5,4.4,povučen u grupi
+4,10,1,1,5,4.7,3.1,manji sukob
+4,11,5,3,2,4.5,4.1,neutralno
+4,12,1,2,3,4.3,5,neutralno
+4,13,2,4,5,3.3,3.2,neutralno
+4,14,5,5,1,2.6,3.1,povučen u grupi
+4,15,3,1,2,3.4,4.1,neutralno
+4,16,1,1,5,3.8,4.5,manji sukob
+4,17,3,3,5,3.5,5,manji sukob
+4,18,3,2,3,3.2,5,povučen u grupi
+4,19,4,3,1,4.1,3.1,pozitivna interakcija
+4,20,4,3,1,2.4,4.2,pozitivna interakcija
+4,21,3,2,3,3.3,4.4,manji sukob
+4,22,4,5,4,4,3.7,povučen u grupi
+4,23,1,1,1,2.7,2.6,manji sukob
+4,24,5,1,3,3.1,4.5,povučen u grupi
+5,1,5,2,4,3.7,2.8,manji sukob
+5,2,1,3,3,3.7,4.1,pozitivna interakcija
+5,3,3,2,2,2.6,3.9,pozitivna interakcija
+5,4,3,5,4,3.6,2.9,povučen u grupi
+5,5,2,2,2,3.9,4.2,manji sukob
+5,6,4,1,2,4.6,4.6,neutralno
+5,7,4,2,3,2.1,3,manji sukob
+5,8,1,4,1,4,4.2,vrlo aktivan
+5,9,2,2,4,4,5,neutralno
+5,10,3,2,2,4.1,4.7,pozitivna interakcija
+5,11,2,4,3,4.5,4.3,neutralno
+5,12,1,3,3,3.2,4.4,povučen u grupi
+5,13,4,5,3,2.7,3.6,pozitivna interakcija
+5,14,1,3,2,3,3.9,povučen u grupi
+5,15,3,1,1,5,2.3,povučen u grupi
+5,16,4,3,3,4.2,2.5,vrlo aktivan
+5,17,5,5,1,3,4.7,vrlo aktivan
+5,18,5,2,3,3.6,2.9,pozitivna interakcija
+5,19,4,1,5,2.8,4.3,povučen u grupi
+5,20,2,3,4,2.8,4,pozitivna interakcija
+5,21,3,5,3,3.5,3.3,pozitivna interakcija
+5,22,3,5,3,5,4.3,vrlo aktivan
+5,23,3,4,3,1.5,3.9,povučen u grupi
+5,24,2,2,4,2.8,4.5,vrlo aktivan
+6,1,2,5,5,2.7,3.7,neutralno
+6,2,4,5,1,4,4.5,neutralno
+6,3,3,2,4,2.3,3.5,povučen u grupi
+6,4,5,3,4,3,3.3,vrlo aktivan
+6,5,4,2,5,5,4.1,vrlo aktivan
+6,6,2,1,3,2.2,4.5,povučen u grupi
+6,7,5,3,1,5,4.6,manji sukob
+6,8,3,2,2,2,3.4,manji sukob
+6,9,1,1,2,4.8,3.2,vrlo aktivan
+6,10,5,1,4,3.9,4.4,vrlo aktivan
+6,11,5,2,4,2.6,3.8,vrlo aktivan
+6,12,4,2,2,1,3,pozitivna interakcija
+6,13,1,4,2,3.2,2.8,manji sukob
+6,14,5,4,1,5,2.7,povučen u grupi
+6,15,2,1,4,3.1,3.9,manji sukob
+6,16,4,5,5,4.9,2.7,povučen u grupi
+6,17,3,4,5,4.7,3.8,povučen u grupi
+6,18,4,5,4,2.5,4.2,manji sukob
+6,19,4,4,3,3.7,3.3,manji sukob
+6,20,3,5,4,3.6,3.5,manji sukob
+6,21,3,4,1,3.6,4.3,neutralno
+6,22,2,3,3,5,2.8,neutralno
+6,23,5,1,2,5,2.2,manji sukob
+6,24,2,4,2,3.3,4.3,manji sukob
